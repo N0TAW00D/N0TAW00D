@@ -6,7 +6,6 @@ I'm a **Computer Engineering student** at **KMUTT**, passionate about full-stack
 - 🎓 **Bachelor of Engineering in Computer Engineering** (2024 - Present) at **KMUTT**
 - 💻 **Full Stack Developer** | **Product Designer**
 - ⚡ **Tech Enthusiast** with a focus on Web Development and Software Engineering
-- 🏃 Running towards my goal of completing a **half marathon**
 
 ## 🔧 Tech Stack
 ### **Languages:**  
