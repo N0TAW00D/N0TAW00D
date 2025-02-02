@@ -1,6 +1,6 @@
 # Hi there, I'm Natthawat Primsirikunawut! 👋
 
-I'm a **Computer Engineering student** at **KMUTT**, passionate about full-stack web development, product design, and software engineering. I love building dynamic and scalable applications, exploring new technologies, and solving real-world problems through code.
+I'm a **Computer Engineering student** at **KMUTT**, passionate about full-stack web development, product design, and software engineering. I love to exploring new technologies, and solving real-world problems through code.
 
 ## 🚀 About Me
 - 🎓 **Bachelor of Engineering in Computer Engineering** (2024 - Present) at **KMUTT**
